@@ -2,6 +2,14 @@
 
 Thank you for your interest in contributing to GigaChad GRC! This document provides guidelines and instructions for contributing.
 
+## Quick Start
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Make your changes following our coding standards
+4. Run tests (`npm test`)
+5. Submit a pull request
+
 ## Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
